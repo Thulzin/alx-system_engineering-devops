@@ -1,1 +1,1 @@
-No more javascript
+It must be in that file
