@@ -1,1 +1,1 @@
-Good file
+Duplicate last line
