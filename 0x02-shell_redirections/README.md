@@ -1,1 +1,1 @@
-Whats new
+Letters only please
