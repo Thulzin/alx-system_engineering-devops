@@ -1,1 +1,1 @@
-The path to success
+Global variables
