@@ -1,1 +1,1 @@
-Dealing with exponents
+10 Types of people
