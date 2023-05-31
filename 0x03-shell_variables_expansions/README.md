@@ -1,1 +1,1 @@
-Divide and Rule
+Dealing with exponents
