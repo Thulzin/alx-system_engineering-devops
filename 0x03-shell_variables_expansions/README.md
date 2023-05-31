@@ -1,1 +1,1 @@
-True knowledge is power
+Divide and Rule
