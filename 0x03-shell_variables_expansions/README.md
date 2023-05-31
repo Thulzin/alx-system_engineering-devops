@@ -1,1 +1,1 @@
-Path to succes
+The path to success
