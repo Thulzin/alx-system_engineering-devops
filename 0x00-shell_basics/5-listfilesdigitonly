@@ -1,2 +1,2 @@
 #!/bin/bash
-ls id -laG
+ls id -la
